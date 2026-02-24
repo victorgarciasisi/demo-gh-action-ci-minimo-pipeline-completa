@@ -1,2 +1,2 @@
 # For classroom demo: intentionally vulnerable dependency.
-Flask==3.0.2
+Flask==3.1.3
