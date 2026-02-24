@@ -1,0 +1,4 @@
+# Intentionally empty for this integrator demo (keeps the baseline green).
+#
+# To demo a failing dependency audit, temporarily point the workflow to
+# `requirements.vuln.txt` (or add a known vulnerable dependency here).
